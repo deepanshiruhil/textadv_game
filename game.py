@@ -1,8 +1,6 @@
 """
-Your name: Leo Shen
-Your student number: A01267947
-
-All of your code must go in this file.
+Your name: Deepanshi Ruhil
+Year 1 project
 """
 
 import random
