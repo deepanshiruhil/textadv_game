@@ -1,5 +1,5 @@
 # textadv_game
-text based adventure game created using python, using basics learnt in year one of comp sci engineering, basic fundamentals used 
+text based adventure game created using python, basic fundamentals used 
 
 time Exploration: The player moves around a map represented in ASCII format, discovering different locations, and it features a narrative that unfolds as the player progresses. The story begins with the player waking up in a clinic with amnesia and being diagnosed with a mysterious illness.
 
