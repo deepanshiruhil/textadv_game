@@ -3,7 +3,7 @@ Your name: Deepanshi Ruhil
 Year 1 project
 """
 
-#edit thsi tomorrwo 
+go through it 
 import random
 import sys
 import time
