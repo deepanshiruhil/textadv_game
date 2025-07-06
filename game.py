@@ -9,7 +9,7 @@ import time
 from itertools import cycle
 from typing import Union
 
-#main
+#main pause 
 def game_pause(seconds: Union[int, float]) -> None:
     """
     Suspends the execution of the Python program for number of seconds equal to function argument.
