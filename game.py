@@ -3,7 +3,6 @@ Your name: Deepanshi Ruhil
 Year 1 project
 """
 
-#less is
 import random
 import sys
 import time
