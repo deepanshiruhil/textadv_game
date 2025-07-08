@@ -2,7 +2,7 @@
 Your name: Deepanshi Ruhil
 Year 1 project
 """
-
+sorted
 import random
 import sys
 import time
