@@ -18,8 +18,6 @@ def game_pause(seconds: Union[int, float]) -> None:
     :return: None
     """
 
-    yess lessgo 
-
     time.sleep(seconds)
 
 
