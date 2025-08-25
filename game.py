@@ -40,7 +40,7 @@ def special_coordinates() -> dict:
     }
 
     return special_locations
-
+no wayyyy
 
 def make_board(rows: int, columns: int, special_locations: dict) -> dict:
     """
