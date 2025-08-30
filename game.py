@@ -493,6 +493,7 @@ def get_user_choice() -> str:
 
     for count, item in enumerate(menu_items, 1):
         print(count, item)
+        
 
     print("-------------\n"
           "S - Status\n"
